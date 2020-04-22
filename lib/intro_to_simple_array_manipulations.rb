@@ -14,4 +14,3 @@ end
 def endusing_flatten(array)
   array.flatten
 end
-  
